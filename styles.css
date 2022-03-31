@@ -1,0 +1,19 @@
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+.img-thumbnail {
+  border-radius: 1rem !important;
+}
+
+.card[style*="width: 18rem"] {
+  border-radius: 1rem !important;
+}
+
+.class-title {
+  font-weight: 700;
+}
+
+.class-text {
+  font-weight: 400;
+}
